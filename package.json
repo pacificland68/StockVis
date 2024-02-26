@@ -12,6 +12,7 @@
     "@antv/g2": "^5.1.15",
     "@antv/g2plot": "^2.4.31",
     "three": "^0.161.0",
+    "three-orbit-controls": "^82.1.0",
     "vue": "^3.3.11"
   },
   "devDependencies": {
